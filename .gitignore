@@ -2,3 +2,4 @@ components
 deploy
 .DS_Store
 index.build.*
+threads.json

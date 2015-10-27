@@ -1,4 +1,4 @@
-org=${1:-"kevinpschaaf"}
+org=${1:-"wogsland"}
 repo=${2:-"chat-view-paper"}
 branch=${3:-"master"}
 
